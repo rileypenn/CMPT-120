@@ -20,7 +20,7 @@ def main():
 
     #insert your best friend's name here and have it print out
     name2 = "Becca"
-    print("Hello, my best friend's name is ", name)
+    print("Hello, my best friend's name is ", name2)
     
     #put your age here
     age = 18
