@@ -15,8 +15,7 @@ def main():
     print("My favorite color is" , favoriteColor)
 
     #create a variable to hold your birthday (NO SLASHES, JUST THE DIGITS) and then print out "My birthday is: " with the variable
-    birthday = 322004
+    birthday = 3022004
     print("My birthday is" , birthday)
 
-    
 main()
